@@ -1,1 +1,1 @@
-# Press
+# Shopify theme strarter
